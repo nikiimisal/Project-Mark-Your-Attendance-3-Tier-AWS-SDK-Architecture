@@ -8,9 +8,9 @@ error_reporting(E_ALL);
 ini_set('display_errors', 1);
 
 // Database configuration
-$db_host = 'database-1.c1qcq8eoe05s.ap-south-1.rds.amazonaws.com';
+$db_host = 'DB-EndPoint-Here';
 $db_username = 'root';
-$db_password = 'piyush07';
+$db_password = 'pass1234';
 $db_name = 'attendance_db';
 
 // AWS S3 configuration
